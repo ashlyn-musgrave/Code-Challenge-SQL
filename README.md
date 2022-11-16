@@ -14,5 +14,5 @@ I'm embarking on my 100 days of code challenge on November 15, 2022
      2. Tweet my progress every day using the #100DaysOfCode hashtag (@ashlynintech)
      3. Update my GitHub repo daily with my progress 
      
-[Log - Click here to see my progress](https://github.com/ashlyn-musgrave/100-Days-of-Code-Challenge-SQL/blob/main/Day%201%20-%20Bus%20Safety.sql)
+[Log - Click here to see my progress](https://github.com/ashlyn-musgrave/100-Days-of-Code-Challenge-SQL/blob/main/log.md)
 
