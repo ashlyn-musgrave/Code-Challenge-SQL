@@ -34,3 +34,23 @@
   3. PIVOT
 
 ##### **Link to work:** [Click here to see my code](https://github.com/ashlyn-musgrave/100-Days-of-Code-Challenge-SQL/blob/main/Day%202%20-%20Bus%20Safety.sql)
+
+#### Day 3: November 17, 2022
+
+##### **Today's Progress:** Today I continued working on the London Bus Safety dataset to work through my PIVOT error. With a LOT of help from online resources, I successfully pivoted the table! There is however a column that's not appearing in the dataset that's supposed to be there so that's what I'll be troubleshooting tomorrow.
+
+##### **Thoughts:** I'm thrilled that I made progress today on the PIVOT query. I'm not sure why the Incident Type isn't showing up in the table, I'm thinking it has something to do with needed to add an order by statement. Stay tuned...
+
+##### **Skills Used:** 
+
+  1. PIVOT
+
+##### **Link to work:** [Click here to see my code](https://github.com/ashlyn-musgrave/100-Days-of-Code-Challenge-SQL/blob/main/Day%203%20-%20Bus%20Safety.sql)
+
+
+
+
+
+
+
+
