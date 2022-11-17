@@ -17,5 +17,20 @@
   7. VIEWS
   8. INNER JOIN statements
   9. VIEWS based on INNER JOINS
+  10. LIKE '%'
 
 ##### **Link to work:** [Click here to see my code](https://github.com/ashlyn-musgrave/100-Days-of-Code-Challenge-SQL/blob/main/Day%201%20-%20Bus%20Safety.sql)
+
+#### Day 2: November 16, 2022
+
+##### **Today's Progress:** Today I worked with the same London Bus Safety dataset and looked at the most dangerous/safest Boroughs in terms of Bus accidents. I also looked at the total number of victims per incident type. 
+
+##### **Thoughts:** I felt a lot more confident querying this dataset today, I had a really long process in my head for how to do something and figured out a way to shorten it and create less work. I'm skill getting an error when trying to PIVOT my table but will keep trying until I get it. 
+
+##### **Skills Used:**  
+
+  1. OUTER JOIN
+  2. UNION
+  3. PIVOT
+
+##### **Link to work:** [Click here to see my code](https://github.com/ashlyn-musgrave/100-Days-of-Code-Challenge-SQL/blob/main/Day%202%20-%20Bus%20Safety.sql)
