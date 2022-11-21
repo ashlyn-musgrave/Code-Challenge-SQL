@@ -62,7 +62,15 @@
  
 ##### **Link to work:** [Click here to see my code](https://github.com/ashlyn-musgrave/100-Days-of-Code-Challenge-SQL/blob/main/Day%204%20-%20Bus%20Safety.sql)
 
+#### Day 5: November , 2022
 
+##### **Today's Progress:** Today I continued working on the Bus Safety dataset and worked on cleaning up my past query results, specifically the duplicate columns in the injury severity table and updating the NULL values to zeros. I also found the top 5 routes with the most accidents. 
 
+##### **Thoughts:** I couldn't find an option to join my injury severity tables together where the duplicate coloumn was deleted (but still wanting to keep the initial column) so instead I exported the joined tables to Excel, deleted the duplicates there, then imported it back into SMSS. From there, I started updating all the NULL values to zeros and was 75% successful. For some reason, it's not updating the percent_fatal coloumn when I run my query but it is for everything else. Will work out a solution for this next time... 
 
-
+##### **Skills Used:** 
+    1. UPDATE
+    2. ISNULL( , )
+    3. Exporting/Importing data from Excel
+ 
+##### **Link to work:** [Click here to see my code](https://github.com/ashlyn-musgrave/100-Days-of-Code-Challenge-SQL/blob/main/Day%205%20-%20Bus%20Safety.sql)
