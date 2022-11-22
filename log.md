@@ -62,7 +62,7 @@
  
 ##### **Link to work:** [Click here to see my code](https://github.com/ashlyn-musgrave/100-Days-of-Code-Challenge-SQL/blob/main/Day%204%20-%20Bus%20Safety.sql)
 
-#### Day 5: November , 2022
+#### Day 5: November 20, 2022
 
 ##### **Today's Progress:** Today I continued working on the Bus Safety dataset and worked on cleaning up my past query results, specifically the duplicate columns in the injury severity table and updating the NULL values to zeros. I also found the top 5 routes with the most accidents. 
 
@@ -74,3 +74,19 @@
     3. Exporting/Importing data from Excel
  
 ##### **Link to work:** [Click here to see my code](https://github.com/ashlyn-musgrave/100-Days-of-Code-Challenge-SQL/blob/main/Day%205%20-%20Bus%20Safety.sql)
+
+
+#### Day 6: November 21, 2022
+
+##### **Today's Progress:** Today I worked through my error when trying to update NULL values to zero for one of my columns in the Injury_Severity table. After a LOT of research and trial and error, I was successful! 
+
+##### **Thoughts:** The root of the problem was that the data type for the percent_fatal coloum was NVARCHAR(255) when it should've been (float, null). I'm still not sure how this coloumn's data type was different from all the rest but nevertheless I replaced the non numeric values to NULL and then altered the data type. I finally have the info I need to start on data visualization in Tableau!
+
+##### **Skills Used:** 
+    1. ALTER TABLE
+    2. SET
+    3. CASE
+    4. ISNUMERIC
+    5. Table Renaming 
+ 
+##### **Link to work:** [Click here to see my code](https://github.com/ashlyn-musgrave/100-Days-of-Code-Challenge-SQL/blob/main/Day%206%20-%20Bus%20Safety.sql)
