@@ -1,6 +1,6 @@
-# 100 Days of Code Challenge (SQL)
+# Coding Challenge (SQL)
 
-100 Days of Code Challenge (SQL)
+Code Challenge (SQL)
 
 I'm embarking on a coding challenge on November 15, 2022 
 
