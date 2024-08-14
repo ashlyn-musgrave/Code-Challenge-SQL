@@ -2,7 +2,7 @@
 
 100 Days of Code Challenge (SQL)
 
-I'm embarking on my 100 days of code challenge on November 15, 2022 
+I'm embarking on a coding challenge on November 15, 2022 
 
 **Intention:** The purpose of embarking on this challenge is to improve my SQL querying skills in order to become a better Data Analyst and Cloud Engineer.
 
@@ -10,8 +10,7 @@ I'm embarking on my 100 days of code challenge on November 15, 2022
 
 **Rules:** 
 
-     1. Code a minimum of an hour every day for the next 100 days
-     2. Tweet my progress every day using the #100DaysOfCode hashtag (@ashlynintech)
+     1. Code a minimum of an hour every day
      3. Update my GitHub repo daily with my progress 
      
 [Log - Click here to see my progress](https://github.com/ashlyn-musgrave/100-Days-of-Code-Challenge-SQL/blob/main/log.md)
